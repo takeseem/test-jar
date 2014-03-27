@@ -2,14 +2,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.takeseem.test</groupId>
 	<artifactId>test-pom</artifactId>
-	<version>0.1.8-SNAPSHOT</version>
+	<version>0.1.8</version>
 	<packaging>pom</packaging>
 	
 	<scm>
 		<connection>scm:git:git@github.com:takeseem/test-jar.git</connection>
 		<developerConnection>scm:git:git@github.com:takeseem/test-jar.git</developerConnection>
 		<url>scm:git:git@github.com:takeseem/test-jar.git</url>
-	  <tag>0.1.6</tag>
+	  <tag>0.1.8</tag>
   </scm>
 	
 	<build>
