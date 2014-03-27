@@ -97,9 +97,9 @@
 					<version>2.5</version>
 					<configuration>
 						<detail>true</detail>
-						<indentSize>1</indentSize>
 						<tagNameFormat>@{project.version}</tagNameFormat>
 						<useEditMode>true</useEditMode>
+						<arguments>-DaltDeploymentRepository=dev-takeseem-releases::default::http://dev.takeseem.com:9390/nexus/content/repositories/releases</arguments>
 					</configuration>
 				</plugin>
 			</plugins>
