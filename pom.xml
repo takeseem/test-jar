@@ -7,9 +7,9 @@
 	<packaging>pom</packaging>
 	
 	<scm>
-		<connection>scm:ssh://git@git.takeseem.com:32968/test/test-pom.git</connection>
-		<developerConnection>scm:ssh://git@git.takeseem.com:32968/test/test-pom.git</developerConnection>
-		<url>http://git.takeseem.com:8765/test/test-pom.git</url>
+		<connection>scm:git:ssh://git@git.takeseem.com:32968/test/test-pom.git</connection>
+		<developerConnection>scm:git:ssh://git@git.takeseem.com:32968/test/test-pom.git</developerConnection>
+		<url>scm:git:ssh://git@git.takeseem.com:32968/test/test-pom.git</url>
 	</scm>
 	
 	<build>
